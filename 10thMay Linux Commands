@@ -1,0 +1,37 @@
+1. pwd: The pwd Linux command prints the current working directory path, starting from the root.
+
+2. cd: The cd (“change directory”) command is used to change the current working directory in Linux and other Unix-like operating systems.
+
+3. mkdir: mkdir command in Linux allows the user to create directories (also referred to as folders in some operating systems )
+
+4. rmdir: The rmdir command removes each directory specified on the command line, if they are empty.
+
+5. touch: The touch command's primary function is to modify a timestamp. Commonly, the utility is used for file creation, although this is not its primary function.
+
+6. gedit: To start gedit from the command line, type gedit and hit Enter. The gedit text editor will appear shortly. It's an uncluttered and clean application window.
+
+7. cp: cp stands for copy. This command is used to copy files or group of files or directory. It creates an exact image of a file on a disk with different file name. cp command require at least two filenames in its arguments.
+
+8. mv: mv stands for move. mv is used to move one or more files or directories from one place to another in a file system like UNIX. It has two distinct functions: (i) It renames a file or folder. (ii) It moves a group of files to a different directory. 
+
+9. locate: locate command in Linux is used to find the files by name. requires sudo apt install mlocate
+
+10. echo: echo command in linux is used to display line of text/string that are passed as an argument
+
+11. cat: The cat (short for “concatenate“) command is one of the most frequently used commands in Linux/Unix-like operating systems. cat command allows us to create single or multiple files, view content of a file, concatenate files and redirect output in terminal or files.
+
+12. nano: Nano is a user-friendly, simple and WYSIWYG(What You See Is What You Get) text editor, which improves the features and user-friendliness of UW Pico text editor. Unlike vim editor or any other command-line editor, it doesn’t have any mode. It has an easy GUI(Graphical User Interface) which allows users to interact directly with the text in spite of switching between the modes as in vim editor.
+
+13. sudo: The sudo command allows you to run programs with the security privileges of another user.
+
+14. df: Linux df command is used to display the disk space used in the file system. The 'df' stands for "disk filesystem."
+
+15. du: The du command is a standard Linux/Unix command that allows a user to gain disk usage information quickly.
+
+16. tar: The Linux ‘tar’ stands for tape archive, is used to create Archive and extract the Archive files.
+
+17. apt-get: the apt-get command is used to install, remove, and perform other operations on installed software packages.
+
+18. chmod: Linux chmod command is used to change the access permissions of files and directories. It stands for change mode.
+
+19. ls: lists all directories present in the current working directory.
